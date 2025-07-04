@@ -17,14 +17,14 @@ def get_base64(bin_file):
 
 # Función para establecer el fondo
 def set_background(png_file):
-    bin_str = get_base64(png_file)
+    bin_str = get_base64(png_file) 
     page_bg_img = '''
     <style>
     .stApp {
         background-image: url("data:image/png;base64,%s");
         background-size: cover;
         background-repeat: no-repeat;
-        background-attachment: fixed;
+        background-attachment: fixed; 
     }
     </style>
     ''' % bin_str
