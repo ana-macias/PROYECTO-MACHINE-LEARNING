@@ -1,6 +1,6 @@
 # CALIDAD DEL VINO A TRAVES DE SUS PROPIEDADES
 
-![Vino blanco](../docs/vino-blanco-gatao.jpg)
+![Vino blanco](docs/vino-blanco-gatao.jpg)
 ![Vino rosado](../docs/vino-rosado-gatao.jpg)
 
 ### Mi proyecto se centrará en el vino verde, un producto único de la región del Miño (noroeste de Portugal).   
