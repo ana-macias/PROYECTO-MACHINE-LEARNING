@@ -1,16 +1,16 @@
 # CALIDAD DEL VINO A TRAVES DE SUS PROPIEDADES
 
 ![Vino blanco](docs/vino-blanco-gatao.jpg)
-![Vino rosado](../docs/vino-rosado-gatao.jpg)
+![Vino rosado](docs/vino-rosado-gatao.jpg)
 
-### Mi proyecto se centrará en el vino verde, un producto único de la región del Miño (noroeste de Portugal).   
+#### Mi proyecto se centrará en el vino verde, un producto único de la región del Miño (noroeste de Portugal).   
 
 ### De graduación alcohólica media, es especialmente apreciado por su frescura (especialmente en verano).   
 
 ### Este vino representa el 15% de la producción total portuguesa, y alrededor del 10% se exporta, principalmente vino blanco.   
 
-![Mapa_1](../docs/Mapa_1.png)
-![Mapa_2](../docs/Mapa_2.png)
+![Mapa_1](docs/Mapa_1.png)
+![Mapa_2](docs/Mapa_2.png)
 
 ### En este DataSet se analizan las dos variantes más comunes, blanco y rosado, de la región denominación de origen del vino verde.   
 
